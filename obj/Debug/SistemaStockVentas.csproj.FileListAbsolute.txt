@@ -1,0 +1,12 @@
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\bin\Debug\SistemaStockVentas.exe.config
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\bin\Debug\SistemaStockVentas.exe
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\bin\Debug\SistemaStockVentas.pdb
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.csprojResolveAssemblyReference.cache
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.Form1.resources
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.Properties.Resources.resources
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.csproj.GenerateResource.Cache
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.exe
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.pdb
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.StockConsulta.resources
+c:\users\maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.ArtNuevo.resources
+C:\Users\Maxi\documents\visual studio 2015\Projects\SistemaStockVentas\SistemaStockVentas\obj\Debug\SistemaStockVentas.ActualizarStock.resources
